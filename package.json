@@ -7,9 +7,10 @@
   "main": "index.js",
   "repository": "confyio/gulp-es6-import-validate",
   "keywords": [
-    "gulp",
+    "gulp"
   ],
   "dependencies": {
+    "es6-import-validate": "0.0.10",
     "gulp-util": "3.0.x",
     "through2": "2.0.x"
   },
