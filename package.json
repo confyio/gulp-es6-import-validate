@@ -1,6 +1,6 @@
 {
   "name": "gulp-es6-import-validate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Pavan Kumar Sunkara <pavan.sss1991@gmail.com> (http://pksunkara.github.com)",
   "description": "A gulp plugin to validate ES6 harmony module import statements",
   "homepage": "https://github.com/confyio/gulp-es6-import-validate",

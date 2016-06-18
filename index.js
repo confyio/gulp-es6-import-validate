@@ -16,7 +16,6 @@ module.exports = function (options) {
   };
 
   var flush = function (callback) {
-    console.log('live reload');
     validator.validateImports(files, options)
     .then(function (result) {
       util.log('Import paths validated');
